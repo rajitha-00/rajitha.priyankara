@@ -21,20 +21,19 @@ const About = () => (
       <motion.p
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-gray-300"
-      >
-        <span className="font-extrabold text-white">I am</span> a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it's really real, you can feel what you feel in this metaverse
-        world, because this is really the{' '}
-        <span className="font-extrabold text-gray-700">
-          madness of the metaverse
-        </span>{' '}
-        of today, using only{' '}
-        <span className="font-extrabold text-gray-700">VR</span> devices you can
-        easily explore the metaverse world you want, turn your dreams into
-        reality. Let's{' '}
-        <span className="font-extrabold text-gray-700">explore</span> the madness
-        of the metaverse by scrolling down
+      > 
+
+        I'm <span className="font-extrabold text-white">Rajitha Priyankara,</span>  a passionate and detail-oriented software engineer specializing in frontend development. 
+        With expertise in{' '} <span className="font-extrabold text-gray-700">
+        React.JS, Vue.JS, Next.JS, Material UI, Tailwind, Bootsrap & SASS etc,
+        </span>{' '} I craft beautiful and intuitive user interfaces. 
+        I have a well-rounded skill set that extends from backend development with <span className="font-extrabold text-gray-700">C# ASP.NET MVC, Java, and Python</span> , 
+        to exploring <span className="font-extrabold text-gray-700">UI/UX design, Database management, Genarative AI and Windows server administration</span> . Staying up to date with coding trends is important to me, 
+        as I constantly seek new challenges to enhance my abilities. Don't hesitate to reach out 
+        for collaboration opportunities. I'm excited to make a positive impact through software engineering.
+        Let's{' '}
+        <span className="font-extrabold text-gray-700">explore</span> the projects
+        by scrolling down
       </motion.p>
 
       <motion.img
