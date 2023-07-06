@@ -44,13 +44,13 @@ export const newFeatures = [
     imgUrl: '/vrpano.svg',
     title: 'Genarative AI',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'Harnessing the Power of Genarative AI: Building Innovative Applications with Google Cloud & AWS.',
   },
   {
     imgUrl: '/headset.svg',
     title: 'Mobile Applications',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Unleashing the Potential of Mobile Applications: Crafting Cutting-Edge Experiences with React Native.',
   },
 ];
 
